@@ -1,0 +1,4 @@
+name = "Barcodes"
+uuid = "8a5a2ef6-1b12-4dfb-b122-98365e5dff52"
+authors = ["Marc Wenzlawski <marc.wenzlawski@student.manchester.ac.uk>"]
+version = "0.1.0"
