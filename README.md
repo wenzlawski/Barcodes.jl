@@ -2,11 +2,13 @@
 
 A Julia package for generating and reading barcodes.
 
-### Aspirations
+![QR code](qr.png)
 
-- To make a pure Julia barcode library on par with ZBar
-- To make it faster and more accurate than pyzbar
-- To enable easy threading/parallelization
+### Premise
+
+- A pure Julia barcode library on par with ZBar
+- Faster and more accurate than pyzbar
+- Enable easy threading/parallelization
 
 
 ### Supported features
