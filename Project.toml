@@ -2,3 +2,10 @@ name = "Barcodes"
 uuid = "8a5a2ef6-1b12-4dfb-b122-98365e5dff52"
 authors = ["Marc Wenzlawski <marc.wenzlawski@student.manchester.ac.uk>"]
 version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StaticArraysCore = "1e83bf80-4336-4d27-bf5d-d5a4f845583c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
